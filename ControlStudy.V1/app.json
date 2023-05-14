@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "controlstudyversion1",
+    "slug": "snack-ca0479ca-0204-477f-9f5c-f0ad82e2472a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Screens/Start/Home/pet-1.webp",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./Screens/Start/Home/pet-1.webp",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Screens/Start/Home/pet-1.webp"
+      }
+    },
+    "web": {
+      "favicon": "./Screens/Start/Home/pet-1.webp"
+    }
+  }
+}
